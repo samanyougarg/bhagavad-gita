@@ -14,7 +14,7 @@
 
 ## New Repositories 👇
 - **Backend**: https://github.com/gita/bhagavad-gita-api
-- **Frontend**: https://github.com/gita/bhagavad-gita-frontend
+- **Frontend**: https://github.com/gita/gita-frontend-v2
 
 
 ---
